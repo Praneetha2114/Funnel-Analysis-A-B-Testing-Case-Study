@@ -1,13 +1,11 @@
 # Funnel-Analysis-A-B-Testing-Case-Study
 
-*STEP 1: Problem Statement & Context
 ## 1. Problem Statement & Context
 
 Online learning platforms often see a high number of user sign-ups, but only a small percentage of users actively engage with courses or complete them. This gap indicates potential issues in the user journey, such as unclear onboarding, lack of guidance, or insufficient motivation after enrollment.
 
 The objective of this project is to analyze the user funnel of an online learning platform to identify drop-off points, understand user behavior, and propose data-driven improvements to increase engagement and conversion.
 
-*STEP 2: Funnel Definition
 ## 2. Funnel Definition
 
 The following funnel represents the key stages in the user journey:
@@ -21,10 +19,6 @@ The following funnel represents the key stages in the user journey:
 
 Each stage of the funnel was analyzed to measure user drop-offs and identify areas where users disengage from the platform.
 
-* STEP 3: Metrics & Funnel Analysis
-
-(This aligns with what you’ve already done – include briefly)
-
 ## 3. Metrics & Funnel Analysis
 
 To evaluate user engagement across the funnel, the following metrics were analyzed:
@@ -36,10 +30,6 @@ To evaluate user engagement across the funnel, the following metrics were analyz
 
 User activity data was aggregated and analyzed to calculate conversion percentages at each stage. Pivot tables and charts were used to visualize trends and identify significant drop-offs.
 
-* STEP 4: Key Insights & Drop-offs
-
-(This is critical for interviews)
-
 ## 4. Key Insights & Drop-offs
 
 Key observations from the funnel analysis include:
@@ -50,9 +40,6 @@ Key observations from the funnel analysis include:
 
 These insights highlight the need for improved guidance and motivation immediately after course enrollment.
 
-* STEP 5: A/B Testing Hypothesis & Design
-
-(CORE PM SECTION)
 
 ## 5. A/B Testing Hypothesis & Design
 
@@ -74,9 +61,6 @@ If users receive a clear onboarding prompt immediately after enrolling in a cour
 - Audience: Newly enrolled users  
 - Traffic Split: 50% Control, 50% Variant
 
-* STEP 6: Recommendations & Expected Impact
-
-(Strong PM finish)
 
 ## 6. Recommendations & Expected Impact
 
